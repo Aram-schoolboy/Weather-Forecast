@@ -1,0 +1,13 @@
+{
+    "forecast_days_count": 2,
+    "updating_frequency": 2, 
+    "cities": [
+        "Helsinki",
+        "Berlin",
+        "Moscow",
+        "Vienna",
+        "Erevan",
+        "Stepanavan",
+        "Dzerzhinsk"
+    ]
+}
